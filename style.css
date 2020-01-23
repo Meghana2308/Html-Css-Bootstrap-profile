@@ -1,0 +1,25 @@
+body{
+    background-color:black;
+    color:white;
+}
+
+.navbar{
+    border-bottom:3px solid #89023E;
+}
+
+#Home-section .dark-overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 800px;
+    background: rgba(0, 0, 0, 0.7);
+}
+#Home-section{
+    background:url(./peacock.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 1000px;
+    }
+
